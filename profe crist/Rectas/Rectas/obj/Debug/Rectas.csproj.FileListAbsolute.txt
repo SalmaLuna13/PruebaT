@@ -1,0 +1,11 @@
+C:\Users\ALUMNO\source\repos\Rectas\Rectas\bin\Debug\Rectas.exe.config
+C:\Users\ALUMNO\source\repos\Rectas\Rectas\bin\Debug\Rectas.exe
+C:\Users\ALUMNO\source\repos\Rectas\Rectas\bin\Debug\Rectas.pdb
+C:\Users\ALUMNO\source\repos\Rectas\Rectas\obj\Debug\Rectas.csprojAssemblyReference.cache
+C:\Users\ALUMNO\source\repos\Rectas\Rectas\obj\Debug\Rectas.Form1.resources
+C:\Users\ALUMNO\source\repos\Rectas\Rectas\obj\Debug\Rectas.Properties.Resources.resources
+C:\Users\ALUMNO\source\repos\Rectas\Rectas\obj\Debug\Rectas.csproj.GenerateResource.cache
+C:\Users\ALUMNO\source\repos\Rectas\Rectas\obj\Debug\Rectas.csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO\source\repos\Rectas\Rectas\obj\Debug\Rectas.exe
+C:\Users\ALUMNO\source\repos\Rectas\Rectas\obj\Debug\Rectas.pdb
+C:\Users\ALUMNO\source\repos\Rectas\Rectas\obj\Debug\Rectas.Form2.resources
